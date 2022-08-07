@@ -18,12 +18,12 @@ class Filters extends BaseConfig
      * @var array
      */
     public $aliases = [
+        'cors'          => App\Filters\Cors::class,
         'csrf'          => CSRF::class,
         'toolbar'       => DebugToolbar::class,
         'honeypot'      => Honeypot::class,
         'invalidchars'  => InvalidChars::class,
         'secureheaders' => SecureHeaders::class,
-        'cors'          => App\Filters\Cors::class,
     ];
 
     /**

@@ -12,8 +12,19 @@ const AddProduct = () => {
         await axios.post('http://localhost:8080/products',{
             title: title,
             price: price
-        });
-        navigate.push("/");
+        })
+        .then((response) => {
+            // handle response
+            console.log(response)
+          })
+          .catch((e) => {
+              console.log(e.message);
+              //this console logs Error: Network Error
+              // at createError (monkeytype.js:formatted:35086:25)
+              // at XMLHttpRequest.handleError (monkeytype.js:formatted:34457:28)
+          });
+        // console.log(title)
+        // navigate.push("/");
     }
  
     return (
