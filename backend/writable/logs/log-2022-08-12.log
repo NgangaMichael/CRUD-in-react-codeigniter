@@ -1,0 +1,84 @@
+CRITICAL - 2022-08-12 02:08:47 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 02:24:13 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 04:52:01 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 04:55:57 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:04:26 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:14:27 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:19:20 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:28:20 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:35:08 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 05:35:25 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 12:24:48 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 12:47:21 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 12:55:19 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-08-12 12:55:44 --> Class "Config\App\Filters\Cors" not found
+in SYSTEMPATH\Filters\Filters.php on line 166.
+ 1 SYSTEMPATH\CodeIgniter.php(440): CodeIgniter\Filters\Filters->run('products', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 4 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')

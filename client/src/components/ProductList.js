@@ -11,8 +11,8 @@ const ProductList = () => {
  
     const getProducts = async () => {
         const products = await axios.get('http://localhost:8080/products');
-        // setProducts(products.data);
-        console.log(products)
+        setProducts(products.data);
+        // console.log(products)
     }
  
     const deleteProduct = async (id) =>{

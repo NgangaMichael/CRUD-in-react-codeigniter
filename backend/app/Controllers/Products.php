@@ -19,6 +19,7 @@ class Products extends ResourceController
         $model = new ProductModel();
         $data = $model->findAll();
         return $this->respond($data);
+        // print_r($data);
     }
  
     /**
@@ -60,6 +61,7 @@ class Products extends ResourceController
                 'success' => 'Data Inserted'
             ]
         ];
+        print_r($data);
         return $this->respondCreated($response);
     }
  

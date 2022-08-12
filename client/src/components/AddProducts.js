@@ -15,7 +15,8 @@ const AddProduct = () => {
         })
         .then((response) => {
             // handle response
-            console.log(response)
+        navigate.push("/");
+            // console.log(response)
           })
           .catch((e) => {
               console.log(e.message);
